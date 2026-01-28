@@ -7,7 +7,7 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
-
+       
 
 :root{
     /* Colors */
@@ -638,4 +638,5 @@ header.nav-about {
         gap: 20px;
     }
     
+
 }
